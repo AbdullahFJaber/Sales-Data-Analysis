@@ -151,7 +151,8 @@ Click the link below to view the report:
 
 https://bit.ly/3VYG2YQ
 
-Note: 
+Note:
+
 The dashboard works best on desktop browsers. Mobile browsers may have limited functionality. 
 ---
 

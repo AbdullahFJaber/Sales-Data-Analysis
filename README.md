@@ -101,17 +101,17 @@ This reflects the dataset’s structure rather than a data error, and it provide
 
 ## 🔑 Key Insights
 
-Top Products & Categories
+- Top Products & Categories
 
-Branch Performance
+- Branch Performance
 
-Brand Contribution
+- Brand Contribution
 
-Customer Overview
+- Customer Overview
 
-Payment Methods
+- Payment Methods
 
-Geographical Trends
+- Geographical Trends
 
 
 ## 💡 Recommendations
@@ -130,15 +130,17 @@ Geographical analysis for new markets
 
 ## 🗂 Files in This Repository
 
-Original Folder → The main Excel file containing data before cleaning contains ( Branches.xlsx, Brands.xlsx, Customers.xlsx, PaymentMethods.xlsx, Products.xlsx, Products.xlsx, Sales 2023.xlsx, Sales 2024.xlsx )
+- Original Folder → The main Excel file containing data before cleaning contains ( Branches.xlsx, Brands.xlsx, Customers.xlsx, PaymentMethods.xlsx, Products.xlsx, Products.xlsx, Sales 2023.xlsx, Sales 2024.xlsx )
 
-Results and Dashboard → The Excel file containing data & dashboard (Sales-Data-Analysis Project 2 Excel .xlsx)
-                        The Power BI file (Sales Project 2 .pbix)
+- Results and Dashboard:
+
+The Excel file containing data & dashboard (Sales-Data-Analysis Project 2 Excel .xlsx)
+
+The Power BI file (Sales Project 2 .pbix)
                                                
-Recommendations for Sales, Profitability & Performance.pdf → For Recommendations Details
+- Recommendations for Sales, Profitability & Performance.pdf → For Recommendations Details
 
-
-README.md → This file
+- README.md → This file
 
 ---
 

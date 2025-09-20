@@ -47,7 +47,7 @@ Data cleaning & formatting, Pivot tables & charts, Conditional formatting, Data 
 
 ---
 
-##🎯 Project Objectives
+## 🎯 Project Objectives
 
 1- Analyze total sales performance and identify overall business trends.
 
@@ -65,7 +65,7 @@ Data cleaning & formatting, Pivot tables & charts, Conditional formatting, Data 
 
 ---
 
-##🌍 Note on Country Count
+## 🌍 Note on Country Count
 
 The dataset contains 229 unique country entries, which is higher than the actual number of countries worldwide (~195).
 This discrepancy is due to the inclusion of:

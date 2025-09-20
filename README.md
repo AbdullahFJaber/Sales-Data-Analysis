@@ -65,7 +65,23 @@ Data cleaning & formatting, Pivot tables & charts, Conditional formatting, Data 
 
 ---
 
+##🌍 Note on Country Count
+
+The dataset contains 229 unique country entries, which is higher than the actual number of countries worldwide (~195).
+This discrepancy is due to the inclusion of:
+
+Overseas territories (e.g., Guadeloupe, Bermuda, Greenland).
+
+Regions with special administrative status (e.g., Hong Kong, Macao).
+
+Disputed/limited-recognition areas (e.g., Western Sahara).
+
+This reflects the dataset’s structure rather than a data error, and it provides additional geographical granularity for business analysis.
+
+---
+
 ## 📈 Dashboard Preview in Excel
+
 
 <img width="804" height="485" alt="Sales-Data-Analysis 2 Tables" src="https://github.com/user-attachments/assets/3b076775-f91f-4d53-a393-e961ee713522" />
 
@@ -73,4 +89,73 @@ Data cleaning & formatting, Pivot tables & charts, Conditional formatting, Data 
 
 
 
+
 ## 📈 Dashboard Preview in Power BI
+
+<img width="1020" height="525" alt="PBI1" src="https://github.com/user-attachments/assets/14038461-f9e4-41eb-8411-5327517041eb" />
+
+<img width="944" height="517" alt="PBI2" src="https://github.com/user-attachments/assets/d0a0af58-4aef-4f5f-a3f7-5be3d780759b" />
+
+<img width="974" height="485" alt="PBI3" src="https://github.com/user-attachments/assets/3c2b8a2c-c4c7-472e-bfb9-831140761367" />
+
+
+## 🔑 Key Insights
+
+Top Products & Categories
+
+Branch Performance
+
+Brand Contribution
+
+Customer Overview
+
+Payment Methods
+
+Geographical Trends
+
+
+## 💡 Recommendations
+
+Top-selling products & categories focus
+
+Improve underperforming branches
+
+Monitor customer behavior for personalized offers
+
+Leverage popular payment methods
+
+Geographical analysis for new markets
+
+---
+
+## 🗂 Files in This Repository
+
+Original Folder → The main Excel file containing data before cleaning contains ( Branches.xlsx, Brands.xlsx, Customers.xlsx, PaymentMethods.xlsx, Products.xlsx, Products.xlsx, Sales 2023.xlsx, Sales 2024.xlsx )
+
+Results and Dashboard → The Excel file containing data & dashboard (Sales-Data-Analysis Project 2 Excel .xlsx)
+                        The Power BI file (Sales Project 2 .pbix)
+                                               
+Recommendations for Sales, Profitability & Performance.pdf → For Recommendations Details
+
+
+README.md → This file
+
+---
+
+## 🔗 Interactive Dashboard
+
+You can explore the fully interactive sales dashboard online without needing Power BI Desktop.
+Click the link below to view the report:
+
+https://bit.ly/3VYG2YQ
+
+Note: The dashboard works best on desktop browsers. Mobile browsers may have limited functionality. 
+---
+
+## Thanks For Your Time
+
+---
+
+⭐ If you like this project, don’t forget to give it a star!
+
+

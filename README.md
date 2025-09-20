@@ -14,15 +14,19 @@ While only static screenshots could be taken from Excel, the full project was su
 ## ⚡ Challenges & Solutions
 
 Challenge 1: Excel dashboard became very heavy and crashed frequently.
+
 Solution: Rebuilt the entire project in Power BI, which handled large datasets efficiently.
 
 Challenge 2: Excel did not support fully interactive dashboards.
+
 Solution: Used Power BI to create interactive visuals, slicers, and dynamic KPIs.
 
 Challenge 3: Saving and sharing dashboards from Excel was not possible.
+
 Solution: Published the Power BI report online with interactive access through a shareable link.
 
 Challenge 4: The provided Excel file works smoothly for raw data exploration, but completing the full dashboard in Excel was not possible due to performance limitations.
+
 Solution: The Excel file is included for reference and comparison with the final Power BI solution.
 
 ---
@@ -41,14 +45,6 @@ Sales data including: Products, Customers, Orders, Dates, Brands, Payment Method
 
 Techniques Applied:
 
-Data cleaning & formatting
+Data cleaning & formatting, Pivot tables & charts, Conditional formatting, Data modeling, DAX, and Dashboard design
 
-Pivot tables & charts
 
-Conditional formatting
-
-Data modeling
-
-DAX (Data Analysis Expressions)
-
-Dashboard design

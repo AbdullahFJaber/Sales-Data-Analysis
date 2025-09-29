@@ -43,7 +43,7 @@ Sales data including: Products, Customers, Orders, Dates, Brands, Payment Method
 
 Techniques Applied:
 
-Data cleaning & formatting, Pivot tables & charts, Conditional formatting, Data modeling, DAX, and Dashboard design
+Data cleaning & formatting, Pivot tables & charts, Data modeling, DAX, and Dashboard design
 
 ---
 

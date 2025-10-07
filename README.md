@@ -153,12 +153,5 @@ https://bit.ly/3VYG2YQ
 
 Note: The dashboard works best on desktop browsers. Mobile browsers may have limited functionality. 
 
----
-
-## Thanks For Your Time
-
----
-
-⭐ If you like this project, don’t forget to give it a star!
 
 

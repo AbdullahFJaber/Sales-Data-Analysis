@@ -79,11 +79,80 @@ Disputed/limited-recognition areas (e.g., Western Sahara).
 This reflects the dataset’s structure rather than a data error, and it provides additional geographical granularity for business analysis.
 
 ---
+## Tables
+--------------------------------------
+| Total Sales | 974,693.20 |
+|-------------|------------|
+--------------------------------------
+| Active Customers | 638 |
+|------------------|-----|
+--------------------------------------
+| Brand Name | Total Sales |
+|------------|-------------|
+| Brand A    | 164,291.50  |
+| Brand B    | 212,339.30  |
+| Brand C    | 196,291.50  |
+| Brand D    | 219,828.30  |
+| Brand E    | 181,942.60  |
+| **Grand Total** | 974,693.20  |
+--------------------------------------
+| Category    | Total Sales |
+|-------------|-------------|
+| Beauty      | 187,779.30  |
+| Electronics | 200,355.10  |
+| Fashion     | 221,302.00  |
+| Home        | 184,997.60  |
+| Sports      | 180,259.00  |
+| **Grand Total** | 974,693.20  |
+--------------------------------------
+| Months     | Total Sales |
+|------------|-------------|
+| January    | 97,353.20   |
+| February   | 83,658.10   |
+| March      | 76,986.90   |
+| April      | 78,257.00   |
+| May        | 75,055.50   |
+| June       | 78,716.00   |
+| July       | 81,131.70   |
+| August     | 94,159.30   |
+| September  | 76,538.80   |
+| October    | 83,520.70   |
+| November   | 74,302.60   |
+| December   | 75,013.30   |
+| **Grand Total** | 974,693.20  |
+--------------------------------------
+| Payment Method | Total Sales |
+|----------------|-------------|
+| PayPal         | 268,474.40  |
+| Credit Card    | 248,972.80  |
+| Bank Transfer  | 224,207.90  |
+| Cash           | 233,038.00  |
+| **Grand Total**| 974,693.20  |
+--------------------------------------
+| Branches Name | Total Sales |
+|---------------|-------------|
+| Branch 5      | 182,583.20  |
+| Branch 2      | 186,559.70  |
+| Branch 1      | 199,602.80  |
+| Branch 4      | 200,794.30  |
+| Branch 3      | 205,153.20  |
+| **Grand Total** | 974,693.20  |
+--------------------------------------
+| Category     | Brand A   | Brand B   | Brand C   | Brand D   | Brand E   | Grand Total |
+|--------------|-----------|-----------|-----------|-----------|-----------|--------------|
+| Beauty       | 16,945.9  | 47,719.6  | 37,907.7  | 48,230.2  | 36,975.9  | 187,779.3    |
+| Electronics  | 40,237.7  | 32,167.3  | 45,580.3  | 50,415.8  | 31,954.1  | 200,355.1    |
+| Fashion      | 37,171.5  | 66,804.3  | 42,232.3  | 36,409.9  | 38,684.1  | 221,302.0    |
+| Home         | 33,578.8  | 38,963.1  | 34,144.0  | 36,480.6  | 41,831.1  | 184,997.6    |
+| Sports       | 36,357.6  | 26,684.9  | 36,427.3  | 48,291.9  | 32,497.4  | 180,259.0    |
+| **Grand Total** | 164,291.5 | 212,339.3 | 196,291.5 | 219,828.3 | 181,942.6 | 974,693.2    |
+--------------------------------------
+
+
+
 
 ## 📈 Dashboard Preview in Excel
 
-
-<img width="804" height="485" alt="Sales-Data-Analysis 2 Tables" src="https://github.com/user-attachments/assets/3b076775-f91f-4d53-a393-e961ee713522" />
 
 <img width="616" height="482" alt="Sales-Data-Analysis  2 Dashboard" src="https://github.com/user-attachments/assets/b6b26079-d39c-4eb2-8a80-96e49776f5c7" />
 

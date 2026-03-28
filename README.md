@@ -218,7 +218,9 @@ The Power BI file (Sales Project 2 .pbix)
 You can explore the fully interactive sales dashboard online without needing Power BI Desktop.
 Click the link below to view the report:
 
-https://bit.ly/3VYG2YQ
+
+https://app.powerbi.com/view?r=eyJrIjoiN2U1YzQ1MmYtN2IwYS00NjVhLWIzOGUtZDY5Mzk5NzAzMDBiIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9
+
 
 Note: The dashboard works best on desktop browsers. Mobile browsers may have limited functionality. 
 
